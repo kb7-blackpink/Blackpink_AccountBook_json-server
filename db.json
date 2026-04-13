@@ -118,40 +118,6 @@
       "icon": "🍺"
     }
   ],
-  "periodicExpense": [
-    {
-      "id": "p-1",
-      "userId": "u-1",
-      "day": 1,
-      "name": "월세",
-      "amount": 400000,
-      "category": "공과금",
-      "cycle": "monthly",
-      "active": true
-    },
-    {
-      "id": "p-2",
-      "userId": "u-1",
-      "day": 15,
-      "name": "넷플릭스",
-      "amount": 17000,
-      "category": "유흥",
-      "cycle": "monthly",
-      "active": true
-    }
-  ],
-  "exchangeRates": [
-    {
-      "id": "ex-1",
-      "name": "버터떡",
-      "rate": 4000
-    },
-    {
-      "id": "ex-2",
-      "name": "쫀쿠",
-      "rate": 2500
-    }
-  ],
   "messages": [
     {
       "id": "msg-1",
